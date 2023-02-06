@@ -1,2 +1,2 @@
-# image_classification_CNN_pytorch
+# Image Classification using CNN pytorch
  pytorch transfer learning + create CNN model
